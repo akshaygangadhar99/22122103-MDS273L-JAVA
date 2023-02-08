@@ -15,6 +15,9 @@ Constraints:
 4. Removing a name should not create empty space inside the array!
 
 SOLUTION:
+Flow Chart:
+![Lab2_FlowChart](https://user-images.githubusercontent.com/118504392/217487484-8932d08b-acf7-487e-9111-6f1e20acd75d.jpg)
+
 Important Points to note in the solution code:
 1) do-while and switch case statements have been used to peform the major tasks
 2) No in-built functions have been utilized
