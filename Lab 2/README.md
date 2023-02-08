@@ -1,5 +1,6 @@
 
 SOLUTION:
+
 Flow Chart:
 
 ![Lab2_FlowChart](https://user-images.githubusercontent.com/118504392/217487484-8932d08b-acf7-487e-9111-6f1e20acd75d.jpg)
