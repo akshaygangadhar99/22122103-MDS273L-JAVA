@@ -17,10 +17,10 @@ Enter your choice:
 2. Search for a name
 3. Remove a name
 4. Show all names
-5. Exit
-1
-Enter a name: 
-Akshay
+5. Exit  
+1  
+Enter a name:  
+Akshay  
 Enter your choice: 
 1. Enter a name
 2. Search for a name
@@ -35,22 +35,22 @@ Enter your choice:
 2. Search for a name
 3. Remove a name
 4. Show all names
-5. Exit
-1
-Enter a name: 
-Sanjeev
+5. Exit  
+1  
+Enter a name:   
+Sanjeev  
 Enter your choice: 
 3. Remove a name
 4. Show all names
-5. Exit
-4
-Akshay
-Ash
+5. Exit  
+4  
+Akshay  
+Ash  
 Enter your choice:
 1. Enter a name
 2. Search for a name
 3. Remove a name
 4. Show all names
-5. Exit
+5. Exit  
 5
 END OF PROGRAM
