@@ -52,5 +52,5 @@ Enter your choice:
 3. Remove a name
 4. Show all names
 5. Exit  
-5
+5  
 END OF PROGRAM
