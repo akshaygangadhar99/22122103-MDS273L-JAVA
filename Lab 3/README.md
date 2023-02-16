@@ -73,7 +73,7 @@ Output: mode of elements in input integer array (may be single or multiple eleme
 ### Sample Output  
 #### Median (length of list = even)  
 
-******************BEGIN PRORGRAM*******************  
+******************BEGIN PROGRAM*******************  
 How many integers do you want to enter? 4  
 Enter integer 1:  
 1  
@@ -90,11 +90,11 @@ Select:
 
 2  
 Median of given integer list is: 2.5
-******************END OF PRORGRAM*******************  
+******************END OF PROGRAM*******************  
 
 #### Median (length of list = odd)  
 
-******************BEGIN PRORGRAM*******************  
+******************BEGIN PROGRAM*******************  
 How many integers do you want to enter? 5  
 Enter integer 1:  
 5  
@@ -113,10 +113,10 @@ Select:
 
 2  
 Median of given integer list is: 3.0  
-******************END OF PRORGRAM*******************  
+******************END OF PROGRAM*******************  
 
 #### Mean  
-******************BEGIN PRORGRAM*******************  
+******************BEGIN PROGRAM*******************  
 How many integers do you want to enter? 5  
 Enter integer 1:  
 5  
@@ -135,10 +135,10 @@ Select:
 
 1  
 Mean of given integer list is: 15.0  
-******************END OF PRORGRAM*******************  
+******************END OF PROGRAM*******************  
 
 #### Mode  
-******************BEGIN PRORGRAM*******************  
+******************BEGIN PROGRAM*******************  
 How many integers do you want to enter? 7  
 Enter integer 1:  
 1  
@@ -162,7 +162,7 @@ Select:
 3  
 Mode of given integer list is:  
 2 3  
-******************END OF PRORGRAM*******************
+******************END OF PROGRAM*******************
 
 
 
