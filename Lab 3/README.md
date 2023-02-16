@@ -57,6 +57,19 @@ This function is utilized in the following getMode function
 Input Argument(s): integer list (arr)  
 Output: mode of elements in input integer array (may be single or multiple elements)  
 
+### FlowChart  
+
+![Lab3FlowChart](https://user-images.githubusercontent.com/118504392/219274609-c45debb2-2173-43f7-bac7-8a7fbd299b9d.jpg)  
+
+![Lab3FlowChart2](https://user-images.githubusercontent.com/118504392/219274643-e972247b-435d-4cc2-b2f1-dd30de2ecf7b.jpg)  
+
+![Lab3FlowChart3](https://user-images.githubusercontent.com/118504392/219274666-87f4c543-b65a-43bd-9ad4-69589fe5b4fa.jpg)  
+
+![Lab3FlowChart4](https://user-images.githubusercontent.com/118504392/219274788-9a033df7-609a-486b-a08b-6a15dff1448e.jpg)  
+
+![Lab3FlowChart5](https://user-images.githubusercontent.com/118504392/219274823-ba0576df-f020-4e51-8bbc-959a813a31dd.jpg)  
+
+
 ### Sample Output  
 #### Median (length of list = even)  
 
