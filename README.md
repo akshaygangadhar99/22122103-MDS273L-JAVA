@@ -36,4 +36,24 @@ After the array is entered, you need to create a menu of items:
 From the user-given array.  
 
 ### Note  
-The program should have a minimum of 3 functions apart from the main function; each of the functions implements the Mean, Median, and Mode computation by accepting the array user has entered as a parameter and returning the value as a result. From the main method, you will display the result.
+The program should have a minimum of 3 functions apart from the main function; each of the functions implements the Mean, Median, and Mode computation by accepting the array user has entered as a parameter and returning the value as a result. From the main method, you will display the result.  
+
+## Lab 4  
+Write a JAVA Menu driven program that does the following:  
+You can ONLY have the below variables as global variables:  
+- Account Number  
+- Account Holder Name  
+- Account Balance  
+
+You MUST have the below as functions:  
+- To initialize the customer  
+- To deposit money  
+- To withdraw money  
+- To print the transactions  
+- To print account summary  
+
+Your menu will have the following operations once the customer is created:  
+- To deposit money  
+- To withdraw money  
+- To print the transactions  
+- To print account summary  
