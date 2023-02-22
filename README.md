@@ -39,7 +39,7 @@ From the user-given array.
 The program should have a minimum of 3 functions apart from the main function; each of the functions implements the Mean, Median, and Mode computation by accepting the array user has entered as a parameter and returning the value as a result. From the main method, you will display the result.  
 
 ## Lab 4  
-Write a JAVA Menu driven program that does the following:  
+### Write a JAVA Menu driven program that does the following:  
 
 You can ONLY have the below variables as global variables:  
 - Account Number  
