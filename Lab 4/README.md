@@ -39,6 +39,10 @@ The program contains the following functions:
 - The program does not access any real-time database to collect initial user-information. This is why initial user-detail initialization is required.  
 
 ## Output:  
+![image](https://user-images.githubusercontent.com/118504392/220630864-71367e40-6910-4a44-9f44-6d80cd62bb6e.png)  
+![image](https://user-images.githubusercontent.com/118504392/220630912-884bca5f-4add-41fb-8d14-7d4e84165c5f.png)  
+![image](https://user-images.githubusercontent.com/118504392/220630949-2d1f5b1a-a6e4-430a-926f-315dbf6d59e3.png)  
+![image](https://user-images.githubusercontent.com/118504392/220631075-03bd024f-f22a-4e49-96e5-6dbd89d229a5.png)
 
 
 
