@@ -38,6 +38,10 @@ The program contains the following functions:
 - The program has only been written for a single user - usage. It needs to be re-run everytime a user needs to use it.  
 - The program does not access any real-time database to collect initial user-information. This is why initial user-detail initialization is required.  
 
+## Overall Program Flowchart:  
+![Lab4_1](https://user-images.githubusercontent.com/118504392/220646428-4c58c1fc-2db5-4b71-a294-40e2fb9f1ba4.jpg)
+
+
 ## Output:  
 ![image](https://user-images.githubusercontent.com/118504392/220630864-71367e40-6910-4a44-9f44-6d80cd62bb6e.png)  
 ![image](https://user-images.githubusercontent.com/118504392/220630912-884bca5f-4add-41fb-8d14-7d4e84165c5f.png)  
