@@ -40,6 +40,7 @@ The program should have a minimum of 3 functions apart from the main function; e
 
 ## Lab 4  
 Write a JAVA Menu driven program that does the following:  
+
 You can ONLY have the below variables as global variables:  
 - Account Number  
 - Account Holder Name  
