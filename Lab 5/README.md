@@ -32,7 +32,7 @@ In the menu-driven program, the menu options will have:
     - class Student  
     - class Lab5  
 
-- class Student s required to initialize the student information as required in the lab task
+- class Student is required to initialize the student information as required in the lab task
 - class Lab5 is the main program class encapsulating several functions that are required for execution of tasks  
 
 ### class Student  
