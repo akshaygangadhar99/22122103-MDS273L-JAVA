@@ -89,7 +89,8 @@ In the menu-driven program, the menu options will have:
     - int x: prints the "Program Start" message if x is 0, and "Program End" message if x is 1  
 
 ### Packages Used  
-The code uses two packages. Two are in-built packages, namely - util, which is utilized for its Scanner method to read user-specified input, and io, which is utilized for its file-handling methods.  
+The code uses three packages.  
+- Two are in-built packages, namely - util, which is utilized for its Scanner method to read user-specified input, and io, which is utilized for its file-handling methods.  
 
 #### myFunctions  
 The third package, is the myFunctions package. This is a custom-built package that, at present, contains one class - align - with the following methods:  
