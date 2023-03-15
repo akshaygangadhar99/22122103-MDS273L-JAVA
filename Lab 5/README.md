@@ -97,7 +97,7 @@ The third package, is the myFunctions package. This is a custom-built package th
 - ljust()  
 - rjust()  
 
-These functionality of these methods are rather self-explanatory, as they are named after their Python counterparts, and are built for the exact same usage.  
+The functionality of these methods are rather self-explanatory, as they are named after their Python counterparts, and are built for the exact same usage.  
 - The center() function is used to center-justify a string for a user-defined width  
 - The ljust() function is used to left-justify a string for a user-defined width  
 - The rjust() function is used to right-justify a string for a user-defined width  
