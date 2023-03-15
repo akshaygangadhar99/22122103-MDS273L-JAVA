@@ -39,7 +39,7 @@ class Lab4{
     static void accountSummary(){
         // Description: Display account information
         System.out.println("Account Number: "+acNo);
-        System.out.println("Account Holder Name: "+acHoldName);
+        System.out.println("Account Holder Name:"+acHoldName);
         System.out.println("Final Account Balance: "+acBal);
     }
 
