@@ -152,7 +152,7 @@ public class Lab5 {
     static int getStdLoc(String regNo, String name){
         // Gets the row index location of student in the allStdData array
         for(int i=0; i<indexCount; i++){
-            // use .toLowerCase() and str1.equals(str2) to compare for equality between 2 strings
+            // use .toLowerCase() and str1.equals(str2) to compare for equality between 2 strings irrespective of case
             if(((allStdData[i][0].toLowerCase()).equals(regNo.toLowerCase())) && ((allStdData[i][1].toLowerCase()).equals(name.toLowerCase()))){
                 return i;
             }
