@@ -109,10 +109,8 @@ For all three methods, if the fill-in character is not specified by the user, th
 ![Lab5_1 drawio](https://user-images.githubusercontent.com/118504392/225942448-b4f90091-f009-4dac-b454-7a90b49793fd.png)  
 
 ## CONSTRAINTS  
-- The one major constraint that the program contains is that all the user-specified values have been treated as strings, including the Registration No. and Phone No. variables  
-- This has been done primarily to ensure that any "faulty" values entered by the user for these two variables do not throw up an error by the JDK during compiling.  
-- However, this can be modified and made more rigid using exception handling techniques  
-- This task has been left for future work, to be done as and when required  
+- The one major constraint that the program contains is that all the user-specified values have been treated as strings, including the Registration No. and Phone No. variables. This has been done primarily to ensure that any "faulty" values entered by the user for these two variables do not throw up an error by the JDK during compiling. However, this can be modified and made more rigid using exception handling techniques. This task has been left for future work, to be done as and when required  
+- Another constraint is the possible entry of repeating values. While names can possibly be repeated, Registration numbers are supposed to be unique. However, no check has been added to ensure the uniqueness of new user-specified inputs. This additional functionality can, however, be added easily and has been left for future work.  
 
 ## Sample Output  
 
