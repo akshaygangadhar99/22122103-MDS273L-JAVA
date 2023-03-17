@@ -103,7 +103,10 @@ The functionality of these methods are rather self-explanatory, as they are name
 - The ljust() function is used to left-justify a string for a user-defined width  
 - The rjust() function is used to right-justify a string for a user-defined width  
 
-For all three methods, if the fill-in character is not specified by the user, then the default fill-in character is taken as space (same as the Python counterparts). This is achieved using constructor overloading.  
+For all three methods, if the fill-in character is not specified by the user, then the default fill-in character is taken as space (same as the Python counterparts). This is achieved using constructor overloading. 
+
+## Overall Program Flowchart  
+![Lab5_1 drawio](https://user-images.githubusercontent.com/118504392/225942448-b4f90091-f009-4dac-b454-7a90b49793fd.png)  
 
 ## CONSTRAINTS  
 - The one major constraint that the program contains is that all the user-specified values have been treated as strings, including the Registration No. and Phone No. variables  
