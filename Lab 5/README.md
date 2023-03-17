@@ -27,7 +27,7 @@ In the menu-driven program, the menu options will have:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## CODE EXPLANATION  
+# CODE EXPLANATION  
 - The program contains 2 classes:  
     - class Student  
     - class Lab5  
@@ -35,7 +35,7 @@ In the menu-driven program, the menu options will have:
 - class Student is required to initialize the student information as required in the lab task
 - class Lab5 is the main program class encapsulating several functions that are required for execution of tasks  
 
-### class Student  
+## class Student  
 - This class contains one constructor that initializes the variables pertaining to key student information such as: Registration no., Name, Email-ID, Phone no. and Department.  
 - There are 4 additional methods, of which the functionalities of the first two are rather self-explanatory. These are:  
     - getDetails(): This stores the student information in the form of a 1-D array and returns the same  
@@ -44,7 +44,7 @@ In the menu-driven program, the menu options will have:
     - createFileContent(String[] newStdData): This method creates a neat, formatted string which can be written into the corresponding file as required  
     - writeToFile(String fileContent): This method simply writes the formatted file content into a .txt file with the file name as the student name  
 
-### class Lab5  
+## class Lab5  
 - There are several methods defined within this that are required for the smooth execution of the main() method  
 - These methods and their core functionalities are explained below  
 
@@ -88,11 +88,11 @@ In the menu-driven program, the menu options will have:
 - Arguments:  
     - int x: prints the "Program Start" message if x is 0, and "Program End" message if x is 1  
 
-### Packages Used  
+## Packages Used  
 The code uses three packages.  
 - Two are in-built packages, namely - util, which is utilized for its Scanner method to read user-specified input, and io, which is utilized for its file-handling methods.  
 
-#### myFunctions  
+### myFunctions  
 The third package, is the myFunctions package. This is a custom-built package that, at present, contains one class - align - with the following methods:  
 - center()  
 - ljust()  
