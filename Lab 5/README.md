@@ -1,4 +1,4 @@
-# Lab 5  
+# Question 
 Create a student class, that will store the details of the Student:  
 - Reg. No.  
 - Name  
