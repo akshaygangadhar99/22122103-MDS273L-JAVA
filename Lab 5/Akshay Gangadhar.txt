@@ -1,0 +1,9 @@
+-----------------------------------------------------
+|                  STUDENT DETAILS                  |
+-----------------------------------------------------
+| Registration No.    :    22122103                 |
+| Name                :    Akshay Gangadhar         |
+| Email-ID            :    akshayg99gmail.com       |
+| Phone No.           :    9134567890               |
+| Department          :    Data Science             |
+-----------------------------------------------------

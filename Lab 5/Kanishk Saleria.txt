@@ -1,0 +1,9 @@
+-----------------------------------------------------
+|                  STUDENT DETAILS                  |
+-----------------------------------------------------
+| Registration No.    :    22134517                 |
+| Name                :    Kanishk Saleria          |
+| Email-ID            :    kanishs02@gmail.com      |
+| Phone No.           :    7894561230               |
+| Department          :    Data Science             |
+-----------------------------------------------------
