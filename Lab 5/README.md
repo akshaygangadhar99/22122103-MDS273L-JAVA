@@ -113,6 +113,9 @@ For all three methods, if the fill-in character is not specified by the user, th
 - Another constraint is the possible entry of repeating values. While names can possibly be repeated, Registration numbers are supposed to be unique. However, no check has been added to ensure the uniqueness of new user-specified inputs. This additional functionality can, however, be added easily and has been left for future work.  
 
 ## Sample Output  
+![image](https://user-images.githubusercontent.com/118504392/225953981-251a4902-0c4e-42fb-9ceb-0d81217d10c1.png)  
+![image](https://user-images.githubusercontent.com/118504392/225954062-d202175c-39c5-4ced-9284-e3084e9a93d8.png)  
+![image](https://user-images.githubusercontent.com/118504392/225954106-e8d2b064-cccd-423a-ac86-70a5eec90747.png)
 
 
 
