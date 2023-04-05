@@ -80,8 +80,9 @@ You have been given an HTML file; from the HTML File, identify the Top categorie
 ## Flowchart  
 
 ## Output  
-![image](https://user-images.githubusercontent.com/118504392/230107013-431f63b1-72e2-4236-9be1-7d5b684d8d9b.png)
-![image](https://user-images.githubusercontent.com/118504392/230107145-cba45352-957f-4b40-bbc0-480b34657661.png)
+![image](https://user-images.githubusercontent.com/118504392/230107013-431f63b1-72e2-4236-9be1-7d5b684d8d9b.png)  
+![image](https://user-images.githubusercontent.com/118504392/230108050-a8ccbeab-75d4-44bd-9402-6d32a3787ccc.png)
+
 
 
 # Code Explanation (Optional Task)  
