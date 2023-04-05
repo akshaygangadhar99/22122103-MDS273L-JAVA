@@ -80,6 +80,9 @@ You have been given an HTML file; from the HTML File, identify the Top categorie
 ## Flowchart  
 
 ## Output  
+![image](https://user-images.githubusercontent.com/118504392/230107013-431f63b1-72e2-4236-9be1-7d5b684d8d9b.png)
+![image](https://user-images.githubusercontent.com/118504392/230107145-cba45352-957f-4b40-bbc0-480b34657661.png)
+
 
 # Code Explanation (Optional Task)  
 ## User-defined methods  
@@ -98,3 +101,5 @@ You have been given an HTML file; from the HTML File, identify the Top categorie
     - Displays the code output in neatly formatted manner using the custom-defined package "myFunctions"  
 
 ## Output  
+![image](https://user-images.githubusercontent.com/118504392/230107294-83e99b34-1628-4640-8ba1-e8a40ccaa4af.png)
+
