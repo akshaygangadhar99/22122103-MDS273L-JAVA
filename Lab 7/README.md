@@ -84,4 +84,6 @@ Present your results in the appropriate format and write the results in a file.
 # Flowchart  
 
 # Output  
+![image](https://user-images.githubusercontent.com/118504392/231489594-b0923f22-3624-489a-94e5-bbc69e37af95.png)
+
 
