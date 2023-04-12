@@ -78,8 +78,14 @@ You have been given an HTML file; from the HTML File, identify the Top categorie
     - Displays the code output in neatly formatted manner using the custom-defined package "myFunctions"  
 
 ## Flowchart  
+![Lab6_FlowChart drawio (1)](https://user-images.githubusercontent.com/118504392/230112731-604d7c8b-fe84-4658-8e8f-18a9ca5814f5.png)
+
 
 ## Output  
+![image](https://user-images.githubusercontent.com/118504392/230107013-431f63b1-72e2-4236-9be1-7d5b684d8d9b.png)  
+![image](https://user-images.githubusercontent.com/118504392/230108050-a8ccbeab-75d4-44bd-9402-6d32a3787ccc.png)
+
+
 
 # Code Explanation (Optional Task)  
 ## User-defined methods  
@@ -98,3 +104,5 @@ You have been given an HTML file; from the HTML File, identify the Top categorie
     - Displays the code output in neatly formatted manner using the custom-defined package "myFunctions"  
 
 ## Output  
+![image](https://user-images.githubusercontent.com/118504392/230107294-83e99b34-1628-4640-8ba1-e8a40ccaa4af.png)
+
