@@ -12,45 +12,6 @@ Flow Chart:
 4) This is clearly evident in lines 21-31 and 53-65 where character-wise comparison is performed between 2 strings
 
 ## SAMPLE OUTPUT:
-Enter your choice: 
-1. Enter a name
-2. Search for a name
-3. Remove a name
-4. Show all names
-5. Exit  
-1  
-Enter a name:  
-Akshay  
-Enter your choice: 
-1. Enter a name
-2. Search for a name
-3. Remove a name
-4. Show all names
-5. Exit
-1
-Enter a name: 
-Ash
-Enter your choice: 
-1. Enter a name
-2. Search for a name
-3. Remove a name
-4. Show all names
-5. Exit  
-1  
-Enter a name:   
-Sanjeev  
-Enter your choice: 
-3. Remove a name
-4. Show all names
-5. Exit  
-4  
-Akshay  
-Ash  
-Enter your choice:
-1. Enter a name
-2. Search for a name
-3. Remove a name
-4. Show all names
-5. Exit  
-5  
-END OF PROGRAM
+![image](https://github.com/akshaygangadhar99/22122103-MDS273L-JAVA/assets/118504392/4579af9e-1bdc-4e45-8f4b-853ceed9b58a)  
+![image](https://github.com/akshaygangadhar99/22122103-MDS273L-JAVA/assets/118504392/02056623-2c5e-4239-b8d5-772edc9ea4ee)
+
