@@ -6,7 +6,10 @@
 ## How to run the program?
 1) Go to the directory containing the code: cd '.\D:\Work\Data Science\Christ University\Academics\Semester 2\Java\22122103-MDL273L-JAVA\22122103-MDS273L-JAVA\Lab 1\' 
 2) Compile the program: javac Lab1.java
-3) Run the program: java Lab1
+3) Run the program: java Lab1  
+
+## Flowchart  
+![Lab1 drawio](https://github.com/akshaygangadhar99/22122103-MDS273L-JAVA/assets/118504392/bf0bf71a-d6a6-41ce-8a42-3637d6be9aee)  
 
 ## Output
 Please enter your details: 
