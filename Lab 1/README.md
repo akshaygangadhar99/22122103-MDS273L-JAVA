@@ -12,20 +12,8 @@
 ![Lab1 drawio](https://github.com/akshaygangadhar99/22122103-MDS273L-JAVA/assets/118504392/bf0bf71a-d6a6-41ce-8a42-3637d6be9aee)  
 
 ## Output
-Please enter your details: 
-Name: 
-Akshay
-Age: 
-23
-Gender (m/f): 
-m
-Which state are you from?
-Kerala
-PERSONAL DETAILS
-NAME: Akshay
-AGE: 23 years
-GENDER: MALE
-Akshay is from the Southern states of India.
+![image](https://github.com/akshaygangadhar99/22122103-MDS273L-JAVA/assets/118504392/4637656d-9cbc-467c-9cc2-edd7a6de13fa)
+
 
 ## Code Explanation
 All inputs have been taken using the Scanner method present in the util class
